@@ -1,0 +1,26 @@
+<div class="col-md-8">
+    <!--Body content-->
+    <div class="alert alert-info">
+        Groups <span class="label label-danger">{{$ctrl.groups.length}} groups</span>
+    </div>
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th> </th>
+                <th>Group</th>
+                <th>Group Description</th>
+                <th>User</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="group in $ctrl.groups">
+                <td><img ng-src="{{group.avatar}}" alt="{{group.groupname}}" /></td>
+                <td>{{group.groupname}}</td>
+                <td>{{group.description}}</td>
+                <td> </td>
+                <td> </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
