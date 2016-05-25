@@ -1,0 +1,85 @@
+{
+  "data": {
+    "login": {
+      "email": "maxi.muster@transparentcom.com",
+      "password": "*********"
+
+    },
+    "work": {
+      "company": "Zippel Media",
+      "branch": [
+        {
+          "name": "Inspiration",
+          "selected": true
+        },
+        {
+          "name": "Branche3",
+          "selected": false
+        },
+        {
+          "name": "Branche4",
+          "selected": false
+        }
+      ],
+      "street": "Stammelner Str. 30",
+      "addition": "",
+      "postalcode": "50189",
+      "location": "Elsdorf", "province": "North-Rhine-Westfalia",
+      "province": "North-Rhine-Westfalia",
+      "country": "Germany",
+      "tel": "+6 555 6600",
+      "fax": "+6 555 6601",
+      "email": "info@transparentcom.com",
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eget pharetra felis, sed ullamcorper dui. Sed et elementum neque. Vestibulum pellente viverra ultrices. Etiam justo augue, vehicula ac gravida a, interdum sit amet nisl. Integer vitae nisi id nibh dictum mollis in vitae tortor."
+    },
+    "contact": {
+      "firstname": "Maxi",
+      "lastname": "Muster",
+      "occupation": "Developer",
+      "street": "Stammelner Str. 30",
+      "addition": "",
+      "postalcode": "50189",
+      "location": "Elsdorf", "province": "North-Rhine-Westfalia",
+      "province": "North-Rhine-Westfalia",
+      "country": "Germany",
+      "tel": "+6 555 6600",
+      "fax": "+6 555 6601",
+      "mobile": "+49 163 555 6600"
+    },
+    "delete": [
+      {
+        "name": "Please choose an option",
+        "selected": true
+      },
+      {
+        "name": "I don´t need the service anymore",
+        "selected": false
+      },
+      {
+        "name": "I found something better",
+        "selected": false
+      },
+      {
+        "name": "Technical issues",
+      "selected": false
+      },
+      {
+        "name": "Ease of issues",
+      "selected": false
+      },
+      {
+        "name": "Too expensive",
+      "selected": false
+      },
+      {
+        "name": "Missing features",
+      "selected": false
+      },
+      {
+        "name": "Other",
+      "selected": false
+      }
+    ]
+
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "username": "Garry Muster",
+      "userid": 1,
+      "company": "Zippel Media",
+      "job": "Developer",
+      "location": "Elsdorf", "province": "North-Rhine-Westfalia",
+      "avatar": "assets/images/avatars/garry.jpg",
+      "type": "user"
+    },
+    {
+      "username": "Alice Muster",
+      "userid": 2,
+      "company": "Zippel Media",
+      "job": "Developer",
+      "location": "Elsdorf", "province": "North-Rhine-Westfalia",
+      "avatar": "assets/images/avatars/alice.jpg",
+      "type": "user"
+    },
+    {
+      "username": "Carl Muster",
+      "userid": 3,
+      "company": "Zippel Media",
+      "job": "Developer",
+      "location": "Elsdorf", "province": "North-Rhine-Westfalia",
+      "avatar": "assets/images/avatars/carl.jpg",
+      "type": "user"
+    },
+    {
+      "username": "Danielle Muster",
+      "userid": 4,
+      "company": "Zippel Media",
+      "job": "Developer",
+      "location": "Elsdorf", "province": "North-Rhine-Westfalia",
+      "avatar": "assets/images/avatars/danielle.jpg",
+      "type": "user"
+    },
+    {
+      "username": "Andrew Muster",
+      "userid": 4,
+      "company": "Zippel Media",
+      "job": "Developer",
+      "location": "Elsdorf", "province": "North-Rhine-Westfalia",
+      "avatar": "assets/images/avatars/andrew.jpg",
+      "type": "user"
+    },
+    {
+      "username": "James Muster",
+      "userid": 4,
+      "company": "Zippel Media",
+      "job": "Developer",
+      "location": "Elsdorf", "province": "North-Rhine-Westfalia",
+      "avatar": "assets/images/avatars/james.jpg",
+      "type": "user"
+    },
+    {
+      "username": "Jane Muster",
+      "userid": 4,
+      "company": "Zippel Media",
+      "job": "Developer",
+      "location": "Elsdorf", "province": "North-Rhine-Westfalia",
+      "avatar": "assets/images/avatars/jane.jpg",
+      "type": "user"
+    },
+    {
+      "username": "Joyce Muster",
+      "userid": 4,
+      "company": "Zippel Media",
+      "job": "Developer",
+      "location": "Elsdorf", "province": "North-Rhine-Westfalia",
+      "avatar": "assets/images/avatars/joyce.jpg",
+      "type": "user"
+    },
+    {
+      "username": "Katherine Muster",
+      "userid": 4,
+      "company": "Zippel Media",
+      "job": "Developer",
+      "location": "Elsdorf", "province": "North-Rhine-Westfalia",
+      "avatar": "assets/images/avatars/katherine.jpg",
+      "type": "user"
+    },
+    {
+      "username": "Vincent Muster",
+      "userid": 4,
+      "company": "Zippel Media",
+      "job": "Developer",
+      "location": "Elsdorf", "province": "North-Rhine-Westfalia",
+      "avatar": "assets/images/avatars/vincent.jpg",
+      "type": "user"
+    }
+  ]
+}

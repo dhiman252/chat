@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "groupname": "Admin",
+      "groupid": 1,
+      "avatar": "assets/icons/group.png",
+      "type": "group",
+      "description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et",
+      "clicked": true,
+      "lists": [
+        {
+          "main": false,
+          "label": "user",
+          "allowedTypes": [{"type":"user"}],
+          "people": [
+            {"name": "Bob", "type": "user","userid": 1,"avatar": "assets/images/avatars/garry.jpg"},
+            {"name": "Charlie", "type": "user","userid": 2,"avatar": "assets/images/avatars/carl.jpg"},
+            {"name": "Alice", "type": "user","userid": 3,"avatar": "assets/images/avatars/alice.jpg"}
+          ]
+        },
+        {
+          "main": true,
+          "label": "users",
+          "allowedTypes": [{"type":"user"}],
+          "people": [
+            {"name": "Frank Muster", "type": "user","avatar": "assets/images/avatars/andrew.jpg"},
+            {"name": "Mallory", "type": "user","avatar": "assets/images/avatars/james.jpg"},
+            {"name": "Alex", "type": "user","avatar": "assets/images/avatars/jane.jpg"},
+            {"name": "Oscar", "type": "user","avatar": "assets/images/avatars/vincent.jpg"},
+            {"name": "joyce", "type": "user","avatar": "assets/images/avatars/joyce.jpg"}
+          ]
+        }
+      ]
+    },
+    {
+      "groupname": "Company Member",
+      "groupid": 2,
+      "avatar": "assets/icons/group.png",
+      "type": "group",
+      "description":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et",
+      "clicked": false,
+      "lists": [
+        {
+          "main": false,
+          "label": "user",
+          "allowedTypes": [{"type":"user"}],
+          "people": [
+            {"name": "Bob", "type": "user","userid": 1,"avatar": "assets/images/avatars/garry.jpg"},
+            {"name": "Charlie", "type": "user","userid": 2,"avatar": "assets/images/avatars/carl.jpg"},
+            {"name": "Alice", "type": "user","userid": 3,"avatar": "assets/images/avatars/alice.jpg"}
+          ]
+        },
+        {
+          "main": true,
+          "label": "users",
+          "allowedTypes": [{"type":"user"}],
+          "people": [
+            {"name": "Frank", "type": "user","avatar": "assets/images/avatars/andrew.jpg"},
+            {"name": "Mallory", "type": "user","avatar": "assets/images/avatars/james.jpg"},
+            {"name": "Alex", "type": "user","avatar": "assets/images/avatars/jane.jpg"},
+            {"name": "Oscar", "type": "user","avatar": "assets/images/avatars/vincent.jpg"},
+            {"name": "joyce", "type": "user","avatar": "assets/images/avatars/joyce.jpg"}
+          ]
+        }
+      ]
+    }
+  ]
+}
